@@ -1,0 +1,19 @@
+.review {
+  background-color: rgba(255, 255, 255, 0.778);
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 2px  #4a2727;
+  border-style:dotted;
+  border-radius: 10px;
+}
+
+
+.heading{
+  text-align: center;
+  color: rgb(59, 76, 123);
+  text-decoration-line: underline;
+  text-decoration-color: rgb(30, 112, 220);
+  
+}
+
+
